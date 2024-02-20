@@ -1,0 +1,79 @@
+/*
+Name: Assignment 1
+Author: Sparsh Gosalia
+*/
+
+html {
+    background-color: #1a261a; 
+    color: rgb(221, 236, 250); 
+    font-size: 20px;              
+}
+header {
+    background-color: #3f3f3f; 
+    overflow: auto;          
+    color: #FFFFFF;        
+}
+.heading-header
+ {
+    padding-left: 2%;   
+}
+
+h2 {
+    text-align: center;     
+}
+
+.main-section {
+    text-align: justify;
+    padding-right: 3%;
+    padding-left: 3%;         
+}
+.main-section-figure {
+    box-shadow: inset 0 0 20px #5e6567;
+    line-height: 1.5;
+    width: 50%;     
+    padding: 10px;      
+    border-radius: 15px;     
+    background: #303a2f;    
+    font-family: Arial, sans-serif;    
+    text-align: center;     
+    letter-spacing: 1px; 
+    font-size: 20px;
+  }
+
+.quote {  
+    margin-top: 2%;
+    font-size: 20px;   
+    padding: 20px;        
+    margin-left: 10%; 
+    letter-spacing: 1px;
+    width: 80%;            
+    font-family: Arial, sans-serif;     
+    text-align: center;
+    line-height: 1.5; 
+    border: 5px solid #303a2f;
+    border-radius: 15px;
+    box-shadow: inset 0 0 30px #989962;
+    /* border: #303a2f; */
+    /* background: #303a2f; */
+  }
+
+  footer 
+  {
+    overflow: auto;     
+     background: #787e76;   
+      color: #2f3a2f; 
+       text-align: center;         
+}
+
+.clear-div
+ {
+    clear: both; 
+  }
+
+iframe
+ {     
+    border-width: 5px; 
+     border-color: #464e50;      
+      padding: 0.5%;      
+}
+
